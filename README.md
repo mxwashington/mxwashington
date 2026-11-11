@@ -7,7 +7,7 @@ PhD student in Systems Science at Binghamton University. MS and BS in Food Scien
 ## Open work
 
 - [food-safety-ai-evals](https://github.com/mxwashington/food-safety-ai-evals): notebooks that test AI models on food safety and regulatory questions (recall classification, allergen labels, a food safety Q&A pipeline, deep-research grading). Bring your own data and keys; every paid call is off by default.
-- mirrorbench, snout-mcp: added when live.
+- [mirrorbench](https://github.com/mxwashington/mirrorbench): an open benchmark for AI self-reports. It asks models about their own processing, then checks whether the answers are consistent, specific and stable. Runs on your own OpenRouter key.
 
 ## Find me
 
